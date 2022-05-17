@@ -1,0 +1,11 @@
+Model Information:
+* title:	Articulated Mannequin
+* source:	https://sketchfab.com/3d-models/articulated-mannequin-e77b358972bf4b608f6fb444e9438cbb
+* author:	saiba12 (https://sketchfab.com/saiba12)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Articulated Mannequin" (https://sketchfab.com/3d-models/articulated-mannequin-e77b358972bf4b608f6fb444e9438cbb) by saiba12 (https://sketchfab.com/saiba12) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
